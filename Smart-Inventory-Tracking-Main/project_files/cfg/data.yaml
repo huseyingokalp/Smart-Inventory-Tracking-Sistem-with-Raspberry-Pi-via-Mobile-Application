@@ -1,0 +1,8 @@
+train: project_files/images/train/train.txt
+val: project_files/images/val/val.txt
+
+# number of classes
+nc: 2
+
+# class names
+names: [ 'sut', 'peynir' ]

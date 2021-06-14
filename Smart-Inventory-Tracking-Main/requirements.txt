@@ -1,0 +1,29 @@
+# pip install -r requirements.txt
+
+#Firebase Connection ----------------------------------------
+#pyrebase
+
+# base ----------------------------------------
+matplotlib>=3.2.2
+numpy>=1.18.5
+opencv-python>=4.1.2
+Pillow
+PyYAML>=5.3.1
+scipy>=1.4.1
+tqdm>=4.41.0
+
+# Install Manualy -------------------------------------
+#torch>=1.7.0 #for manual install project_files/import/torch-1.7.0a0-cp37-cp37m-linux_armv7l.whl
+#torchvision>=0.8.0 #for manual install project_files/import/torchvision-0.8.0a0+45f960c-cp37-cp37m-linux_armv7l.whl
+
+# training logging -------------------------------------
+# wandb
+
+# plotting ------------------------------------
+seaborn>=0.11.0
+pandas
+
+# extras --------------------------------------
+pycocotools>=2.0  
+thop  # FLOPs computation
+
